@@ -10,6 +10,5 @@ public class Function5GM {
         int z = scan.nextInt();
         int f = (x * y * z) + x + ((int) Math.pow(y, 2)) + ((int) Math.pow(z, 3));
         System.out.println(f);
-        //// yarimciqdi
     }
 }
